@@ -1,0 +1,5 @@
+com\self\showing\entity\MovieList.class
+com\self\showing\ShowingApplication.class
+com\self\showing\controller\TestController.class
+com\self\showing\entity\TestEntity.class
+com\self\showing\controller\IndexController.class
